@@ -1,6 +1,6 @@
 #include <iostream>
 #include "vector.hpp"
-#include "utils.hpp";
+#include "utils.hpp"
 
 class VectorTest
 {
