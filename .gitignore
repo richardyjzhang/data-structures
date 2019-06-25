@@ -1,3 +1,5 @@
+.DS_Store
+cpp/a.out
 .vscode/
 cpp/.vs/
 cpp/x64/
