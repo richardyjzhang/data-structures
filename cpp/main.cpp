@@ -1,5 +1,6 @@
 #include "vector_test.hpp"
 #include "list_test.hpp"
+#include "bst_test.hpp"
 
 int main()
 {
@@ -8,4 +9,7 @@ int main()
 
     ListTest listTest;
     listTest.test();
+
+    BstTest bstTest;
+    bstTest.test();
 }

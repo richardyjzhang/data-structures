@@ -10,7 +10,7 @@ void println(int x)
 
 void println(bool b)
 {
-  std::cout << b << std::endl;
+  std::cout << (b ? "true" : "false") << std::endl;
 }
 
 #endif
